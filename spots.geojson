@@ -22,13 +22,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.1798848, 129.7016199
+          33.1798848,
+          129.7016199
         ]
       },
       "properties": {
         "marker-symbol": "mountain",
         "name": "Yumihari Observatory",
         "address": "405 Higashiōkubochō, Sasebo-shi, Nagasaki-ken 857-0049"
+      }
+
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1701634,
+          129.7218454
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "ChocoCro St. Marc Cafe",
+        "address": "4-1, Motoshimacho Sasebo, Nagasaki Japan 857-0871"
       }
 
     }
