@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1746963,
+          129.7153628
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Good Coffee Labo",
+        "address": "1-33, Motomachi Sasebo, Nagasaki Japan 857-0059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1701634,
+          129.7218454
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "ChocoCro St. Marc Cafe",
+        "address": "4-1, Motoshimacho Sasebo, Nagasaki Japan 857-0871"
+      }
+    
+    }
+  ]
+}
