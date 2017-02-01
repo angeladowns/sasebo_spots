@@ -27,11 +27,10 @@
         ]
       },
       "properties": {
-        "marker-symbol": "mountain",
+        "marker-symbol": "landmark",
         "name": "Yumihari Observatory",
         "address": "405 Higashiōkubochō, Sasebo-shi, Nagasaki-ken 857-0049"
       }
-
     },
     {
       "type": "Feature",
@@ -47,8 +46,21 @@
         "name": "ChocoCro St. Marc Cafe",
         "address": "4-1, Motoshimacho Sasebo, Nagasaki Japan 857-0871"
       }
-
     }
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.464233,
+          33.180861
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "The Wine Club ZACCO",
+        "address": "6-15, Shimokyōmachi, Sasebo-shi, Nagasaki-ken 857-0875"
+      }
+    }
   ]
 }
