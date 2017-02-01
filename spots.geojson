@@ -108,7 +108,7 @@
       },
       "properties": {
         "marker-symbol": "grocery",
-        "marker-color": "1cc93f",
+        "marker-color": "#1cc93f",
         "name": "Red Cabbage",
         "address": "387-3 Yamatochō, Sasebo-shi, Nagasaki-ken 857-1165"
       }
@@ -124,7 +124,7 @@
       },
       "properties": {
         "marker-symbol": "grocery",
-        "marker-color": "1cc93f",
+        "marker-color": "#1cc93f",
         "name": "Supercenter Trial",
         "address": "137 Shiratakechō, Sasebo-shi, Nagasaki-ken 857-1164"
       }
@@ -140,9 +140,25 @@
       },
       "properties": {
         "marker-symbol": "dog-park",
-        "marker-color": "1cc9c4",
+        "marker-color": "#1cc9c4",
         "name": "Grooming Salon Eve",
         "address": "4 Matsuurachō, Sasebo-shi, Nagasaki-ken 857-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7150889,
+          33.1779466
+        ]
+      },
+      "properties": {
+        "marker-symbol": "shop",
+        "marker-color": "#f78914",
+        "name": "Koga Stationary Art and Gifts",
+        "address": "2−24 Tenmachō, Sasebo-shi, Nagasaki-ken 857-0043"
       }
     }
   ]
