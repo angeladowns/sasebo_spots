@@ -43,6 +43,7 @@
       },
       "properties": {
         "marker-symbol": "cafe",
+        "marker-color": "#f44",
         "name": "ChocoCro St. Marc Cafe",
         "address": "4-1, Motoshimacho Sasebo, Nagasaki Japan 857-0871"
       }
@@ -88,6 +89,7 @@
       },
       "properties": {
         "marker-symbol": "restaurant",
+        "marker-color": "#c9aa1c",
         "name": "Misa Rosso",
         "address": "2−15 Mantokuchō, Sasebo-shi, Nagasaki-ken 857-0034"
       }
