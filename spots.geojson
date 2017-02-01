@@ -105,7 +105,23 @@
         "marker-symbol": "grocery",
         "marker-color": "1cc93f",
         "name": "Red Cabbage",
-        "address": "387-3 Yamatochō, Sasebo-shi, Nagasaki-ken 857-1165, Japan"
+        "address": "387-3 Yamatochō, Sasebo-shi, Nagasaki-ken 857-1165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7489293,
+          33.1548334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "grocery",
+        "marker-color": "1cc93f",
+        "name": "Supercenter Trial",
+        "address": "137 Shiratakechō, Sasebo-shi, Nagasaki-ken 857-1164"
       }
     }
   ]
