@@ -91,6 +91,22 @@
         "name": "Misa Rosso",
         "address": "2−15 Mantokuchō, Sasebo-shi, Nagasaki-ken 857-0034"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7503226,
+          33.1568445
+        ]
+      },
+      "properties": {
+        "marker-symbol": "grocery",
+        "marker-color": "1cc93f",
+        "name": "Red Cabbage",
+        "address": "387-3 Yamatochō, Sasebo-shi, Nagasaki-ken 857-1165, Japan"
+      }
     }
   ]
 }
