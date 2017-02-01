@@ -27,7 +27,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "landmark",
+        "marker-symbol": "star",
         "name": "Yumihari Observatory",
         "address": "405 Higashiōkubochō, Sasebo-shi, Nagasaki-ken 857-0049"
       }
@@ -52,8 +52,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.464233,
-          33.180861
+          129.7218282,
+           33.1688
         ]
       },
       "properties": {
