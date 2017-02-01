@@ -14,7 +14,9 @@
         "marker-symbol": "cafe",
         "marker-color": "#f44",
         "name": "Good Coffee Labo",
-        "address": "1-33, Motomachi Sasebo, Nagasaki Japan 857-0059"
+        "address": "1-33, Motomachi Sasebo, Nagasaki Japan 857-0059",
+        "on-site parking": "yes, limited",
+        "cash or credit": "cash"
       }
     },
     {
@@ -30,7 +32,9 @@
         "marker-symbol": "star",
         "marker-color": "#c91c50",
         "name": "Yumihari Observatory",
-        "address": "405 Higashiōkubochō, Sasebo-shi, Nagasaki-ken 857-0049"
+        "address": "405 Higashiōkubochō, Sasebo-shi, Nagasaki-ken 857-0049",
+        "on-site parking": "yes",
+        "cash or credit": "n/a"
       }
     },
     {
@@ -46,7 +50,9 @@
         "marker-symbol": "cafe",
         "marker-color": "#f44",
         "name": "ChocoCro St. Marc Cafe",
-        "address": "4-1, Motoshimacho Sasebo, Nagasaki Japan 857-0871"
+        "address": "4-1, Motoshimacho Sasebo, Nagasaki Japan 857-0871",
+        "on-site parking": "no",
+        "cash or credit": "cash"
       }
     },
     {
@@ -62,7 +68,9 @@
         "marker-symbol": "bar",
         "marker-color": "#701cc9",
         "name": "The Wine Club ZACCO",
-        "address": "6-15, Shimokyōmachi, Sasebo-shi, Nagasaki-ken 857-0875"
+        "address": "6-15, Shimokyōmachi, Sasebo-shi, Nagasaki-ken 857-0875",
+        "on-site parking": "no",
+        "cash or credit": "cash"
       }
     },
     {
@@ -78,7 +86,9 @@
         "marker-symbol": "shop",
         "marker-color": "#f78914",
         "name": "NAFCO Home Plaza",
-        "address": "4-26 Hizukushimachi, Sasebo-shi, Nagasaki-ken 857-0852"
+        "address": "4-26 Hizukushimachi, Sasebo-shi, Nagasaki-ken 857-0852",
+        "on-site parking": "yes",
+        "cash or credit": "not sure"
       }
     },
     {
@@ -94,7 +104,9 @@
         "marker-symbol": "restaurant",
         "marker-color": "#c9aa1c",
         "name": "Misa Rosso",
-        "address": "2−15 Mantokuchō, Sasebo-shi, Nagasaki-ken 857-0034"
+        "address": "2−15 Mantokuchō, Sasebo-shi, Nagasaki-ken 857-0034",
+        "on-site parking": "no",
+        "cash or credit": "cash"
       }
     },
     {
@@ -110,7 +122,9 @@
         "marker-symbol": "grocery",
         "marker-color": "#1cc93f",
         "name": "Red Cabbage",
-        "address": "387-3 Yamatochō, Sasebo-shi, Nagasaki-ken 857-1165"
+        "address": "387-3 Yamatochō, Sasebo-shi, Nagasaki-ken 857-1165",
+        "on-site parking": "yes",
+        "cash or credit": "cash"
       }
     },
     {
@@ -126,7 +140,9 @@
         "marker-symbol": "grocery",
         "marker-color": "#1cc93f",
         "name": "Supercenter Trial",
-        "address": "137 Shiratakechō, Sasebo-shi, Nagasaki-ken 857-1164"
+        "address": "137 Shiratakechō, Sasebo-shi, Nagasaki-ken 857-1164",
+        "on-site parking": "yes",
+        "cash or credit": "cash"
       }
     },
     {
@@ -142,7 +158,9 @@
         "marker-symbol": "dog-park",
         "marker-color": "#1cc9c4",
         "name": "Grooming Salon Eve",
-        "address": "4 Matsuurachō, Sasebo-shi, Nagasaki-ken 857-0052"
+        "address": "4 Matsuurachō, Sasebo-shi, Nagasaki-ken 857-0052",
+        "on-site parking": "no",
+        "cash or credit": "cash"
       }
     },
     {
@@ -158,7 +176,9 @@
         "marker-symbol": "shop",
         "marker-color": "#f78914",
         "name": "Koga Stationary Art and Gifts",
-        "address": "2−24 Tenmachō, Sasebo-shi, Nagasaki-ken 857-0043"
+        "address": "2−24 Tenmachō, Sasebo-shi, Nagasaki-ken 857-0043",
+        "on-site parking": "yes, limited",
+        "cash or credit": "credit"
       }
     }
   ]
