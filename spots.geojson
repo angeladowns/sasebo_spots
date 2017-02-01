@@ -61,6 +61,21 @@
         "name": "The Wine Club ZACCO",
         "address": "6-15, Shimokyōmachi, Sasebo-shi, Nagasaki-ken 857-0875"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7224459,
+          33.1532627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "shop",
+        "name": "NAFCO Home Plaza",
+        "address": "4-26 Hizukushimachi, Sasebo-shi, Nagasaki-ken 857-0852"
+      }
     }
   ]
 }
