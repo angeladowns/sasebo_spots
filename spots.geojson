@@ -123,6 +123,22 @@
         "name": "Supercenter Trial",
         "address": "137 Shiratakechō, Sasebo-shi, Nagasaki-ken 857-1164"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7174665,
+          33.1751509
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dog-park",
+        "marker-color": "1cc9c4",
+        "name": "Grooming Salon Eve",
+        "address": "4 Matsuurachō, Sasebo-shi, Nagasaki-ken 857-0052"
+      }
     }
   ]
 }
