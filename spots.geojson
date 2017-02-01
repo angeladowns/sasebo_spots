@@ -28,6 +28,7 @@
       },
       "properties": {
         "marker-symbol": "star",
+        "marker-color": "#c91c50"
         "name": "Yumihari Observatory",
         "address": "405 Higashiōkubochō, Sasebo-shi, Nagasaki-ken 857-0049"
       }
@@ -59,6 +60,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
+        "marker-color": "#701cc9",
         "name": "The Wine Club ZACCO",
         "address": "6-15, Shimokyōmachi, Sasebo-shi, Nagasaki-ken 857-0875"
       }
@@ -74,6 +76,7 @@
       },
       "properties": {
         "marker-symbol": "shop",
+        "marker-color": "#f78914",
         "name": "NAFCO Home Plaza",
         "address": "4-26 Hizukushimachi, Sasebo-shi, Nagasaki-ken 857-0852"
       }
