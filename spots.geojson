@@ -76,6 +76,21 @@
         "name": "NAFCO Home Plaza",
         "address": "4-26 Hizukushimachi, Sasebo-shi, Nagasaki-ken 857-0852"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7144854,
+          33.1813842
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Misa Rosso",
+        "address": "2−15 Mantokuchō, Sasebo-shi, Nagasaki-ken 857-0034"
+      }
     }
   ]
 }
