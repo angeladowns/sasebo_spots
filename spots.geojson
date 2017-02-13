@@ -29,7 +29,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "star",
+        "marker-symbol": "park",
         "marker-color": "#c91c50",
         "name": "Yumihari Observatory",
         "address": "405 Higashiōkubochō, Sasebo-shi, Nagasaki-ken 857-0049",
@@ -178,6 +178,24 @@
         "name": "Koga Stationary Art and Gifts",
         "address": "2−24 Tenmachō, Sasebo-shi, Nagasaki-ken 857-0043",
         "on-site parking": "yes, limited",
+        "cash or credit": "credit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7136578,
+          33.1681097
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star",
+        "marker-color": "#f78914",
+        "name": "Fleet Activities Sasebo",
+        "address": "Hirasemachi, Sasebo-shi, Nagasaki-ken 857-0056",
+        "on-site parking": "yes",
         "cash or credit": "credit"
       }
     }
